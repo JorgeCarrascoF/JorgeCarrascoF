@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/JorgeCarrascoF/JorgeCarrascoF/assets/105206644/1b61a269-e979-40a2-9e21-34798bc43616)
+<img align="center" src="https://raw.githubusercontent.com/JorgeCarrascoF/JorgeCarrascoF/main/github-header-image.png">
 <div align="center">
 <h2>
 Welcome to my GitHub Profile! 👋  
