@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align='center' src="https://github.com/JorgeCarrascoF/JorgeCarrascoF/assets/105206644/1da82ef2-e439-41d8-9f93-ab5566acd739" width="600px">
+<img align='center' src="https://github.com/JorgeCarrascoF/JorgeCarrascoF/assets/105206644/1da82ef2-e439-41d8-9f93-ab5566acd739" width="1020px">
 
 <!--
 **JorgeCarrascoF/JorgeCarrascoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
