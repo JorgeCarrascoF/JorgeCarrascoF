@@ -1,11 +1,16 @@
-### Hi there 👋
-
-![github-header-image](https://github.com/JorgeCarrascoF/JorgeCarrascoF/assets/105206644/64077d82-d8f3-4122-8baf-5a97e4545176)
+![github-header-image](https://github.com/JorgeCarrascoF/JorgeCarrascoF/assets/105206644/1b61a269-e979-40a2-9e21-34798bc43616)
+<div align="center">
+<h2>
+Welcome to my GitHub Profile! 👋  
+</h2>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width='400px'>  
+</div>
 
 <!--
 **JorgeCarrascoF/JorgeCarrascoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
