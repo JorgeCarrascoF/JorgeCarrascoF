@@ -11,7 +11,7 @@ Welcome to my GitHub Profile! 👋
 My name is Jorge Carrasco, and I'm from Spain. I'm studying a Computer Science Degree at <a href="https://www.unex.es/">UNEX</a>, and I'm looking for a trainee/junior position where I can consolidate all the things I've learned.
 </p>
 
-- 📚 I’m currently working on college assignments and personal projects. You can know more about the latest checking <a href="https://jorgecarrascof.github.io/">my web resume</a>.
+- 📚 I’m currently working on college and personal projects. You can know more about the latest checking <a href="https://jorgecarrascof.github.io/">my web resume</a>.
 - 🌱 I’m currently learning React and Next.js by myself; as well as Java, C++ and SQL in college.
 - 💭 I've also been in touch with some technologies as Angular, Electron, MongoDB and Astro.
 - 💫 In the near future, I'd like to learn more about Python, React Native, Machine Learning, and more!
