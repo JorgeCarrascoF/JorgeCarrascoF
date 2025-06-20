@@ -23,5 +23,5 @@ My name is Jorge Carrasco, and I'm from Spain. I'm studying a Computer Science D
 - -  🎨 Design
 - -  👾 Board game nights
 - 💬 Ask me about anything you'd like to know about my personal project or preferred tools!
-- 📫 How to reach me: you can message me at <a href="www.linkedin.com/in/jorge-carrasco-facundo">LinkedIn</a>, this GitHub and my personal mail (check my <a href="https://jorgecarrascof.github.io/">web resume</a> to find it).
+- 📫 How to reach me: you can message me at <a href="https://www.linkedin.com/in/jorge-carrasco-facundo">LinkedIn</a>, this GitHub and my personal mail (check my <a href="https://jorgecarrascof.github.io/">web resume</a> to find it).
 
